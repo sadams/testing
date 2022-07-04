@@ -1,5 +1,6 @@
 name: "bing"
 
+on: push
 
 jobs:
   noop:
