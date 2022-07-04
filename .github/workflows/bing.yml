@@ -1,0 +1,8 @@
+name: "bing"
+
+
+jobs:
+  noop:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "bingbing"
