@@ -1,5 +1,6 @@
 name: "Foo"
 
+on: push
 
 jobs:
   noop:
