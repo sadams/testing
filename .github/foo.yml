@@ -1,0 +1,8 @@
+name: "Foo"
+
+
+jobs:
+  noop:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "need a custom github token that has org adjustment access"
