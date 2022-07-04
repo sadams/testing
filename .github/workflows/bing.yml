@@ -1,0 +1,9 @@
+name: "bing"
+
+on: push
+
+jobs:
+  noop:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "bingbing"
