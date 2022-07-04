@@ -1,8 +1,0 @@
-name: "bar"
-
-
-jobs:
-  noop:
-    runs-on: ubuntu-latest
-    steps:
-      - run: echo "bar"
